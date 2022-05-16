@@ -6,8 +6,12 @@ Dans la plupart des cas, git est capable de mélanger les modifications que diff
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-- Voici une ligne du README.md avec deux (deux) fotes de frape (fautes de frappe) à corriger
+<<<<<<< HEAD
+- Voici une ligne du README.md avec deux fautes de frappe à corriger
 
+=======
+- Voici une ligne du README.md avec dex (deux) fautes de frappe (fautes  de frappe) à corriger
+>>>>>>> 1687aa2ff8b02fc79755c727ae73dab1c8a9a462
 
 - **Athos** corrigera la première faute de frappe (deux) et **Porthos** la seconde (fautes de frappe) 
 
